@@ -1,0 +1,29 @@
+#TITLE:<%NAME%>;
+#SUBTITLE:;
+#ARTIST:;
+#TITLETRANSLIT:;
+#SUBTITLETRANSLIT:;
+#ARTISTTRANSLIT:;
+#GENRE:;
+#CREDIT:coachgen;
+#MUSIC:none.ogg;
+#BANNER:;
+#BACKGROUND:;
+#CDTITLE:;
+#SAMPLESTART:0.000;
+#SAMPLELENGTH:0.000;
+#SELECTABLE:YES;
+#OFFSET:0.276;
+#BPMS:<%BPMS%>;
+#STOPS:;
+#BGCHANGES:;
+#FGCHANGES:;
+//--------------- dance-single - coachgen ----------------
+#NOTES:
+     dance-single:
+     coachgen:
+     Hard:
+     8:
+     0,0,0,0,0:
+<%CHART%>
+;
